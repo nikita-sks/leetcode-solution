@@ -60,3 +60,11 @@ Each solution includes the code submitted for that particular problem, making th
 *Still learning. Still debugging. Still occasionally wondering why the code worked after I changed nothing.* 
 
 **Consistency > perfection.**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/nikita-sks/leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
+<!---LeetCode Topics End-->
